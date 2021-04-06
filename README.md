@@ -9,4 +9,8 @@ Porting to other platforms (such as MacOS, Linux or iOS) is always welcome, and 
 Of course you can do pull requests to improve the game and if I like the changes I will upload them to Google Play and Itch
 
 ## License
+<<<<<<< HEAD:README.MD
 [GPL](https://www.gnu.org/licenses/licenses.es.html)
+=======
+[GPL](https://www.gnu.org/licenses/licenses.es.html)
+>>>>>>> 5fa1aa1c846d8fa84c87701e47742eb4ff157c7e:README.md
